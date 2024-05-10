@@ -17,10 +17,11 @@ from deeplearning.ai by Jerry Liu, who is CEO at LlamaIndex
 4. L4_Building_a_Multi-Document_Agent.ipynb 复杂的多文档Agent
 
 # 安装
-需要先安装requirements.txt
-采用清华源
-pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
-pip install -r requirements.txt
+ 需要先安装requirements.txt,采用清华源.
+
+ pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+
+ pip install -r requirements.txt
 
 之后就可以运行L0-L4文件了。
 
